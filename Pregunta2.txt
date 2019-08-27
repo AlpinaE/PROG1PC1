@@ -1,0 +1,7 @@
+
+
+El creador de Git es Linus Torvald, el mismo que creadorde Linux.
+ Los tres objetivo que quería implementar son:
+    -Que posea velocidad
+    -Diseño sencillo para su fácil entendimiento
+    -Gran soporte para desarrollo no lineal
