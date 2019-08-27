@@ -1,0 +1,3 @@
+El http2 
+  - usa el formato binario que es más fácil de interpretar  y mejora la velocidad de carga.
+  -Permite que una conexión se realice en múltiples solicitudes y respuestas 
